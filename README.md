@@ -16,4 +16,4 @@ Scikit-learn (version 0.24.1 or higher)
 
 predictions.csv: A CSV file containing the predicted stock prices for the year 2019.
 evaluation.txt: A text file summarizing the evaluation metrics (MAE, RMSE) of the model's predictions.
-
+prices.py contains code for our linear regression model
